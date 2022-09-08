@@ -1,28 +1,29 @@
 # Merger and Acquisition data scrape
 
+There are studies suggest high probability predicting models for stock mergers and acquisitions. Some papers note the potential of alhpoa in an investment strategy around these concepts. Here is code that allows the scraping of such data.
 
-A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [join the Call for Code community](https://developer.ibm.com/callforcode/solutions/projects/get-started/).
 
 ## Contents
 
 - [Submission or project name](#submission-or-project-name)
   - [Contents](#contents)
+  - [Conversation](#conversation)
   - [Research articles](#research-articles)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
-    - [The idea](#the-idea)
   - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
-  - [Long description](#long-description)
-  - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
-  - [Live demo](#live-demo)
-  - [Built with](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+
+
+## Conversation
+
+I will be breaking down these studies by answering the following questions:
+
+What was their model for prediction?
+Was there statistical significance?
+What was their ultiamte success rate in their methods?
+Extra information noted?
+
+
 
 ## Research articles
 
@@ -34,9 +35,6 @@ Part of the World Health Organization's guidance on limiting further spread of C
 
 Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
 
-### The idea
-
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
 
 ## Demo video
 
